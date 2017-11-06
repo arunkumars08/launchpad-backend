@@ -59,6 +59,11 @@
 
   <dependencies>
     <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>1.18</version>
+    </dependency>
+    <dependency>
       <groupId>io.openshift.launchpad</groupId>
       <artifactId>backend-forge</artifactId>
     </dependency>
